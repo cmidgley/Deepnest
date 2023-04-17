@@ -12,6 +12,14 @@ Deepnest is a desktop application originally based on [SVGNest](https://github.c
 - New path approximation feature for highly complex parts
 
 
+# This repository is no longer maintained
+
+In an effort to build a community to maintain and advance Deepnest, this repo has been moved to the 
+[deepnest-io](https://github.com/deepnest-io/Deepnest) organization.  Please join the 
+community and help advance Deepnest!
+
+No further development will occur on this fork.
+
 ## About this fork
 
 This is a fork of [Dogthemachine's fork](https://github.com/Dogthemachine/Deepnest) of [Jack000's
