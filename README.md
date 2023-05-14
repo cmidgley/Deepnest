@@ -1,6 +1,12 @@
-<img src="https://deepnest.io/img/logo-large.png" alt="Deepnest" width="250">
+# This repository has been moved
+
+In an effort to build a community to maintain and advance Deepnest, this repo has been moved to the 
+[deepnest-io](https://github.com/deepnest-io/Deepnest) organization.  Please join the 
+community and help advance Deepnest!
 
 ## **Deepnest**
+
+<img src="https://deepnest.io/img/logo-large.png" alt="Deepnest" width="250">
 
 A fast, robust nesting tool for laser cutters and other CNC tools
 
@@ -10,13 +16,6 @@ Deepnest is a desktop application originally based on [SVGNest](https://github.c
 - Merges common lines for laser cuts
 - Support for DXF files (via conversion)
 - New path approximation feature for highly complex parts
-
-
-# This repository is no longer maintained
-
-In an effort to build a community to maintain and advance Deepnest, this repo has been moved to the 
-[deepnest-io](https://github.com/deepnest-io/Deepnest) organization.  Please join the 
-community and help advance Deepnest!
 
 No further development will occur on this fork.
 
